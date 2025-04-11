@@ -43,4 +43,4 @@
 
 ---
 
-> "Yo no fui elegido, yo me auto elegí." – Andrés Futuro 🚀
+> "Cada iteración me acerca al diseño más eficiente de mí mismo.." – Andrés Futuro 🚀
