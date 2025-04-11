@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tecnologías que uso
+🛠️ Tecnologías que uso
 
 <p align="left">
   Aquí están algunas de las tecnologías y herramientas con las que trabajo regularmente:
