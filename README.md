@@ -1,5 +1,5 @@
 
-# 👋 Hola, soy Andrés Futuro
+# 👋 Hola, soy Edgar Andrés Patiño Parra
 
 ¡Bienvenido a mi perfil de GitHub! Soy una persona apasionada por la tecnología, el desarrollo creativo y los proyectos con propósito.
 
