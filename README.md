@@ -1,6 +1,6 @@
 
 # 👋 Hola, soy Andrés Futuro
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
 ¡Bienvenido a mi perfil de GitHub! Soy una persona apasionada por la tecnología, el desarrollo creativo y los proyectos con propósito.
 
 ---
